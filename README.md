@@ -62,7 +62,7 @@ A new word is defined with the following code in **content.json** : <br />
 	    "word" : "The word you want to define",
 	    "definition" : "The actual definition of this word"
     }
-If you want to add a new definition, you simply have to type (copy/paste) those two lines ine the "content" array of content.json
+If you want to add a new definition, you simply have to type (copy/paste) those two lines in the "content" array of content.json
 
 
    ----------
@@ -107,7 +107,7 @@ for a clean setup. **content.json** is almost empty and all the settings have th
 
 ## Warning
 
-This projet has been made in a very short time and for a personal purpose, hence it does not provide :
+This project has been made in a very short time and for a personal purpose, hence it does not provide :
 - Full Microsoft Word customizing options
 - Null checks / File verifications / Value checks
 - Extensible settings file (**you can NOT add or remove a key-value pair, you can ONLY modify the existing ones**)
