@@ -18,7 +18,7 @@ Thus, developing a fairly simple tool to ease this process came to my mind, and 
 <p>Content file</p>
 <img src="content_example.png" />
 
-<p>Result</p>
+<p>Result, the definitions were taken from Google definition feature "Define [word]"</p>
 <img src="result_example.png" />
 
 ## Dependencies
@@ -65,7 +65,7 @@ I will complete this section
 This projet has been made in a very short time and for a personal purpose, hence it does not provide :
 - Full Microsoft Word customizing options
 - Null checks / File verifications / Value checks 
-- Extensible settings file (**you can't add or remove a key-value pair which is not supported in the code**)
+- Extensible settings file (**you can NOT add or remove a key-value pair, you can ONLY modify the existing ones**)
 
 As a consequence, trying to modify the JSON structure of both files on which this tool rely may lead to improper behaviour, which I'm not responsible for :) 
 
