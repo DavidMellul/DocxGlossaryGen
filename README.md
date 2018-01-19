@@ -13,13 +13,13 @@ Thus, developing a fairly simple tool to ease this process came to my mind, and 
 ## Example
 
 <p>Settings file</p>
-<img src="settings_example.png" />
+<img src="example/settings_example.png" />
 
 <p>Content file</p>
-<img src="content_example.png" />
+<img src="example/content_example.png" />
 
 <p>Result, the definitions were taken from Google definition feature "Define [word]"</p>
-<img src="result_example.png" />
+<img src="example/result_example.png" />
 
 ## Dependencies
 This tool will not work if you do not setup  (one pip line, it's ok) :
