@@ -4,8 +4,8 @@
     "encoding": "utf-8"
   },
   "header_settings": {
-    "text": "Glossaire",
-    "font": "Segoe UI",
+    "text": "Glossary",
+    "font": "Arial",
     "size": 20,
     "formatting": [
       "bold"
@@ -18,7 +18,7 @@
     "alignment": "LEFT"
   },
   "word_settings": {
-    "font": "Segoe UI",
+    "font": "Arial",
     "size": 12,
     "formatting": [
       "bold"
@@ -30,7 +30,7 @@
     ]
   },
   "definition_settings": {
-    "font": "Segoe UI",
+    "font": "Arial",
     "size": 12,
     "color": [
       0,

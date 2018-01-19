@@ -1,0 +1,46 @@
+{
+  "document_settings": {
+    "filename": "Glossary.docx",
+    "encoding": "utf-8"
+  },
+  "header_settings": {
+    "text": "Glossary",
+    "font": "Segoe UI",
+    "size": 20,
+    "formatting": [
+      "bold"
+    ],
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "alignment": "LEFT"
+  },
+  "word_settings": {
+    "font": "Segoe UI",
+    "size": 12,
+    "formatting": [
+      "bold"
+    ],
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "definition_settings": {
+    "font": "Segoe UI",
+    "size": 12,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "both_word_and_definition_settings": {
+    "alignment": "JUSTIFY",
+    "separator": ":"
+  }
+}
+
