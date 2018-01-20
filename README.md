@@ -7,7 +7,7 @@ Do not suffer the hassle of formatting and sorting your glossary manually!
 
 ## Usage
 
-**Take care of putting the .py script and the .json files in the same directory**
+**Be mindful of puting the .py script and the .json files in the same directory**
 
     python docxglossarygen.py
 
